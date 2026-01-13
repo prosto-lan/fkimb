@@ -1,0 +1,12 @@
+.navbar-main {
+    display: flex;
+    flex-direction: row;
+}
+
+.ul-main {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    gap: 15px;
+}
